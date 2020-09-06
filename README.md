@@ -3,7 +3,8 @@
 Computer science student @ University of studies of Milan
 
 
-“ We don't make mistakes, just happy little accidents <3 ”
+“We don't make mistakes, just happy little accidents <3”
+<br>
 “Talent is a pursued interest. Anything that you're willing to practice, you can do.” 
 
 Actual mood:
