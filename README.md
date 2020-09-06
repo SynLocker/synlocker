@@ -2,6 +2,11 @@
 
 Computer science student @ University of studies of Milan
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Synlocker) &nbsp;
+[![Codewars](https://img.shields.io/badge/-Codewars-900?style=flat&logo=Codewars&logoColor=black)](https://www.codewars.com/users/SynLocker) &nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matteo.prezioso97@gmail.com) &nbsp;
+
+
 
 “We don't make mistakes, just happy little accidents <3”
 <br>
