@@ -7,7 +7,8 @@ Computer science student @ University of studies of Milan
 “Talent is a pursued interest. Anything that you're willing to practice, you can do.” 
 
 Actual mood:
-<img src="https://i.redd.it/i1ahwabd0f751.jpg"/>
+<br>
+<img  src="https://i.redd.it/i1ahwabd0f751.jpg" style="max-width:50%; max-height:50%"/>
 
 <!--
 **SynLocker/synlocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
