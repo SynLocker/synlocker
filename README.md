@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to the most wholesome github profile ever! 👋
+
+Computer science student @ University of studies of Milan
+
+
+“ We don't make mistakes, just happy little accidents <3 ”
+“Talent is a pursued interest. Anything that you're willing to practice, you can do.” 
+
+Actual mood:
+<img src="https://i.redd.it/i1ahwabd0f751.jpg"/>
 
 <!--
 **SynLocker/synlocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
