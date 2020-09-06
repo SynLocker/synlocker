@@ -8,7 +8,7 @@ Computer science student @ University of studies of Milan
 
 Actual mood:
 <br>
-<img  src="https://i.redd.it/i1ahwabd0f751.jpg" style="max-width:50%; max-height:50%"/>
+<img  src="https://i.redd.it/i1ahwabd0f751.jpg" style="max-width:20%; max-height:20%"/>
 
 <!--
 **SynLocker/synlocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
